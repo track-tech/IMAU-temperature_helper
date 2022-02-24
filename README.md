@@ -7,6 +7,7 @@
        
        
  --AutoX.js Github仓库地址：https://github.com/kkevsekk1/AutoX
+ 
  --hamibot 官网地址：https://hamibot.cn/marketplace
        
 
@@ -15,5 +16,5 @@
 
 Designed by Zhang Baichuan（张百川）
 
-演示视频：
-<iframe src="//player.bilibili.com/player.html?aid=551785196&bvid=BV12i4y127kc&cid=516029296&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+演示视频地址：
+https://www.bilibili.com/video/BV12i4y127kc?share_source=copy_web
