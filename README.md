@@ -3,7 +3,7 @@
 --基于AutoX.js
 --依赖安卓控件进行识别，兼容性应该还不错
 
--V1.0 2022.2.24 新手开发的半成品小脚本，没有UI（不会），没有单独打包apk文件，运行依靠 AutoX.js/Hamibot 定时启动运行。
+-V1.0beta 2022.2.24 新手开发的半成品小脚本，没有UI（不会），没有单独打包apk文件，运行依靠 AutoX.js/Hamibot 定时启动运行。
        
        
  --AutoX.js Github仓库地址：https://github.com/kkevsekk1/AutoX
