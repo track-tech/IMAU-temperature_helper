@@ -1,18 +1,18 @@
 # IMAU-temperature_helper 内农大易班体温填报助手
 
-针对内农大易班疫情体温填报所开发的小脚本 --基于AutoX.js --依赖安卓控件进行识别，兼容性应该还不错（版本号请以release为准，这里有些混乱了）
+针对内农大易班疫情体温填报所开发的小脚本 --基于AutoX.js --依赖安卓控件进行识别，兼容性应该还不错（具体版本号请以release为准）
 
 注：仅供学习交流使用，请如实填报信息，瞒报后果概不负责，若出现异常请在易班手动修改个人数据
 
 
 
--V1.0 beta 2022.2.24 新手开发的半成品小脚本，没有UI（不会），没有单独打包apk文件，运行依靠 AutoX.js/Hamibot 定时启动运行。
+-V0.1.0 beta 2022.2.24 新手开发的半成品小脚本，没有UI（不会），没有单独打包apk文件，运行依靠 AutoX.js/Hamibot 定时启动运行。
 
 
--V1.1 beta 2022.3.19 添加自动解锁（限定为PIN码），依旧没有UI，运行依赖同上
+-V0.1.1 beta 2022.3.19 添加自动解锁（限定为PIN码），依旧没有UI，运行依赖同上
 
 
--V1.1(YiBanTianBao.js) 2022.3.21	@[Peng-2333](https://github.com/Peng-2333)维护上传新版本，修改了一些BUG
+-V0.1.1 Alpha(YiBanTianBao.js) 2022.3.21	@[Peng-2333](https://github.com/Peng-2333)维护上传新版本，修改了一些BUG
 
  *  1. 新增可以按照个人习惯更改年月日分隔符的常量字符串;
  *  2. 新增自动复查确认功能;
@@ -29,8 +29,21 @@
 
 Designed by Zhang Baichuan（张百川）
 
+感谢@[Peng-2333](https://github.com/Peng-2333)大佬的支持
+
 演示视频地址:
 
-V1.0beta： https://www.bilibili.com/video/BV12i4y127kc?share_source=copy_web
+V0.1.0 beta： https://www.bilibili.com/video/BV12i4y127kc?share_source=copy_web
 
-V1.1	：
+V0.1.1 beta：
+
+
+## FAQ
+
+Q:怎么用呢？
+A:把JS文件加载到Auto.js中，然后定时启动即可食用(。・∀・)ノ
+
+Q:为什么要开发这个东西？
+A:懒是第一生产力
+
+
